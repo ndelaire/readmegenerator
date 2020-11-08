@@ -13,6 +13,7 @@ const questions = [{
         name: "email",
         message: "What is your email address?"
     },
+
     {
         type: "input",
         name: "title",
@@ -23,11 +24,7 @@ const questions = [{
         name: "description",
         message: "Please write a description of your project"
     },
-    {
-        type: "input",
-        name: "contents",
-        message: "Please write a Table of Contents if you have one"
-    },
+
     {
         type: "input",
         name: "credits",
@@ -56,19 +53,24 @@ const questions = [{
         type: "input",
         name: "tests",
         message: "What command should be run to run test?",
-        default: "npx test" 
+        default: "npm run test"
     },
     {
         type: "input",
         name: "usage",
-        message: "What does the user need to know about using the repo?"
+        message: "Are there any instructions for usage?"
     },
     {
         type: "input",
         name: "credits",
         message: "Are there are collaborators, creators, or third-party assets that need to be noted?"
+    },
+    {
+        type: "input",
+        name: "questions",
+        message: "Contact information for any questions"
     }
-   
+
 ];
 
 function writeToFile(fileName, data) {
@@ -84,6 +86,3 @@ function init() {
         })
 }
 init();
-
-
-
