@@ -1,5 +1,11 @@
 function generateMarkdown(data) {
-    return `# ${data.title} ## ${data.description} ## ${data.contents} ## ${data.install} ## ${data.usage} ## ${data.credits} ## ${data.license}
+    return `# ${data.title}
+     ## ${data.description} 
+     ## ${data.contents}
+      ## ${data.install} 
+      ## ${data.usage} 
+      ## ${data.credits} 
+      ## ${data.license}
   
   `;
   }
