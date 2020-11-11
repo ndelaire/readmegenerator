@@ -32,7 +32,7 @@ ${data.description}
   * [Questions](#questions)
   * [License](#license)
   * [Contact](#contact)
-  * [Badges](#badges)
+ 
 ## Installation
 To install, use the following: 
 ${data.install} 
