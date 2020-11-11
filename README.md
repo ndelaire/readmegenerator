@@ -8,7 +8,7 @@ The purpose of this project as to create a command line application to generate 
 
 ## Table of Contents
   * [Installation](#installation)
-  * [Technologies] (#technologies)
+  * [Technologies](#technologies)
   * [Usage](#usage)
   * [Credits](#credits)
   * [Questions](#questions)
@@ -16,7 +16,7 @@ The purpose of this project as to create a command line application to generate 
   * [Contact](#contact)
  
  ## Demo 
- [!README Demo (./utils/readmescreenshot.PNG)](https://drive.google.com/file/d/1W-PJ3Dw7dXIs1-U_8p6mzYHx6-uciYdK/view?usp=sharing)
+[(.utils/readmescreenshot.png)](https://drive.google.com/file/d/1W-PJ3Dw7dXIs1-U_8p6mzYHx6-uciYdK/view?usp=sharing "README demo")
 
 
 ## Installation
