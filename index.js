@@ -3,6 +3,7 @@ const fs = require('fs');
 const generateMarkdown = require("./utils/generatemarkdown")
 
 
+
 const questions = [{
         type: "input",
         name: "github",
@@ -39,8 +40,8 @@ const questions = [{
             "MIT",
             "Apache 2.0",
             "GPL 3.0",
-            "BSD 3",
-            "None"
+            "BSD 3-Clause",
+            "Unlicense"
         ]
     },
     {
