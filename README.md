@@ -16,7 +16,9 @@ The purpose of this project as to create a command line application to generate 
   * [Contact](#contact)
  
  ## Demo 
-[![Demo](readmescreenshot.png)](https://youtu.be/oKDvVYUZ054)
+[![demo](http://img.youtube.com/vi/oKDvVYUZ054/0.jpg)](http://www.youtube.com/watch?v=oKDvVYUZ054 "READMEDEMO")
+
+
 
 
 ## Installation
