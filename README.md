@@ -11,12 +11,12 @@ Creating a README from the command line
   * [Questions](#questions)
   * [License](#license)
   * [Contact](#contact)
-  * [Badges](#badges)
+ 
 ## Installation
 To install, use the following: 
 npm i 
 ## Usage
-Clone the repo     
+This just a demo     
 ## Credits/Contributions
 none 
 ## Testing
