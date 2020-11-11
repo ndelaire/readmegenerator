@@ -2,7 +2,7 @@
 function generateMarkdown(data) {
   let license = "";
   
-  if (data.license === "MIT License") {
+  if (data.license === "MIT") {
     license = "[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)"
    
   } else if (data.license === "Apache 2.0") {
@@ -21,7 +21,7 @@ function generateMarkdown(data) {
 
   return `
 # ${data.title}
-
+${license}
 ## Description
 ${data.description} 
 ## Table of Contents
@@ -46,7 +46,7 @@ To run a test, use ${data.tests}
   
 ${data.license}
 ## Questions
-Contact information for any questions: 
+If you have questions: 
 GitHub: [${data.github}] (https://github.com/ndelaire)
 Email: ${data.email} 
   `;
