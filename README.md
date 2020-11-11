@@ -1,31 +1,48 @@
 
 # README Generator
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ## Description
-Creating a README from the command line 
+
+The purpose of this project as to create a command line application to generate a README. With this application, it can help a user save time to spend more of their attention on their project. The application takes user input by using Inquirer. 
+
 ## Table of Contents
   * [Installation](#installation)
+  * [Technologies] (#technologies)
   * [Usage](#usage)
   * [Credits](#credits)
-  * [Testing](#tests)
   * [Questions](#questions)
   * [License](#license)
   * [Contact](#contact)
  
+ ## Demo 
+ [![README Demo]](https://drive.google.com/file/d/197vSoJEou2y6jOfBKLY53nq2XJLD64an/view} "README Generator")
+
 ## Installation
-To install, use the following: 
-npm i 
+To install dependencies, run npm i 
+
+## Technologies 
+* Node.js
+* Inquirer 
+
 ## Usage
-This just a demo     
+Once the dependencies are installed, you'll run the application with Node index.js
+
 ## Credits/Contributions
-none 
-## Testing
-To run a test, use npm run test
-## License 
-  
+None at this time 
+
+
+## License   
 MIT
+
 ## Questions
 If you have questions: 
 * GitHub Username: Ndelaire (https://github.com/ndelaire)
 * Email: ndelaire16@gmail.com 
+
+## Contact
+* GitHub Repo: https://github.com/ndelaire/readmegenerator
+* Email: ndelaire16@gmail.com 
+* Deployed project if you would like to see generated example: https://ndelaire.github.io/readmegenerator/
+
   
