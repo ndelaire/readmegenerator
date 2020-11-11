@@ -47,8 +47,8 @@ To run a test, use ${data.tests}
 ${data.license}
 ## Questions
 If you have questions: 
-GitHub: [${data.github}] (https://github.com/ndelaire)
-Email: ${data.email} 
+* GitHub Username: ${data.username} (https://github.com/ndelaire)
+* Email: ${data.email} 
   `;
 };
 module.exports = generateMarkdown;
