@@ -16,7 +16,8 @@ The purpose of this project as to create a command line application to generate 
   * [Contact](#contact)
  
  ## Demo 
- [![README Demo]](https://drive.google.com/file/d/197vSoJEou2y6jOfBKLY53nq2XJLD64an/view} "README Generator")
+ [!README Demo (./utils/readmescreenshot.PNG)](https://drive.google.com/file/d/1W-PJ3Dw7dXIs1-U_8p6mzYHx6-uciYdK/view?usp=sharing)
+
 
 ## Installation
 To install dependencies, run npm i 
